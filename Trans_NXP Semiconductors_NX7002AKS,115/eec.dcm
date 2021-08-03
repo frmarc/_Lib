@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NX7002AKS,115
+D NX7002AKS,115
+F http://www.nxp.com/documents/data_sheet/NX7002AKS.pdf
+$ENDCMP
+# end doc library

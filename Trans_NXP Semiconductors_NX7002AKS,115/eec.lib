@@ -1,0 +1,101 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# NXP Semiconductors NX7002AKS,115
+#
+DEF NX7002AKS,115 Q 0 40 Y Y 2 L N
+F0 "Q" 0 300 50 H V L CNN 
+F1 "NX7002AKS,115" 0 400 50 H V L CNN 
+F2 "NXP_Semiconductors-NX7002AKS,115-*" 0 500 50 H I L CNN 
+F3 "http://www.nxp.com/documents/data_sheet/NX7002AKS.pdf" 0 600 50 H I L CNN 
+F4 "N" 0 700 50 H I L CNN "Channel Type"
+F5 "11" 0 800 50 H I L CNN "Ciss typ pF"
+F6 "SC-88" 0 900 50 H I L CNN "Code  JEITA"
+F7 "Manufacturer URL" 0 1000 50 H I L CNN "Component Link 1 Description"
+F8 "http://www.nxp.com/" 0 1100 50 H I L CNN "Component Link 1 URL"
+F9 "Package Specification" 0 1200 50 H I L CNN "Component Link 3 Description"
+F10 "http://www.nxp.com/documents/outline_drawing/sot363_po.pdf" 0 1300 50 H I L CNN "Component Link 3 URL"
+F11 "3.4" 0 1400 50 H I L CNN "Coss typ pF"
+F12 "Rev. 1" 0 1500 50 H I L CNN "Datasheet Version"
+F13 "0.17" 0 1600 50 H I L CNN "ID max A"
+F14 "Surface Mount" 0 1700 50 H I L CNN "Mounting Technology"
+F15 "6-Pin Small Outline Transistor Package, Body 2 x 1.25 mm, Pitch 0.65 mm" 0 1800 50 H I L CNN "Package Description"
+F16 "06-03-16, 03/2006" 0 1900 50 H I L CNN "Package Version"
+F17 "Tape & Reel" 0 2000 50 H I L CNN "Packing"
+F18 "60" 0 2100 50 H I L CNN "VDS max V"
+F19 "1.6" 0 2200 50 H I L CNN "VGSth typ V"
+F20 "Trans" 0 2300 50 H I L CNN "category"
+F21 "7239343" 0 2400 50 H I L CNN "ciiva ids"
+F22 "71f671ebcd7114de" 0 2500 50 H I L CNN "library id"
+F23 "NXP Semiconductors" 0 2600 50 H I L CNN "manufacturer"
+F24 "SOT363" 0 2700 50 H I L CNN "package"
+F25 "1413520815" 0 2800 50 H I L CNN "release date"
+F26 "C3367255-26CB-407E-8755-19A968426B86" 0 2900 50 H I L CNN "vault revision"
+F27 "yes" 0 3000 50 H I L CNN "imported"
+DRAW
+X S1 1 400 -300 100 U 40 0 1 1 P 
+X G1 2 0 0 100 R 40 0 1 1 P 
+X D1 6 400 200 100 D 40 0 1 1 P 
+P 4 1 1 0 170 -50 200 -100 230 -50 170 -50 N
+P 2 1 1 0 170 -100 230 -100 N
+P 2 1 1 0 170 -90 170 -100 N
+P 4 1 1 0 350 -170 300 -200 350 -230 350 -170 N
+P 2 1 1 0 300 -170 300 -230 N
+P 2 1 1 0 310 -170 300 -170 N
+P 2 1 1 0 100 0 280 0 N
+P 2 1 1 0 400 70 300 70 N
+P 2 1 1 0 400 0 300 0 N
+P 2 1 1 0 400 -70 300 -70 N
+P 2 1 1 0 400 0 400 -100 N
+P 2 1 1 0 280 90 280 -90 N
+P 2 1 1 0 300 90 300 50 N
+P 2 1 1 0 300 -20 300 20 N
+P 2 1 1 0 300 -90 300 -50 N
+P 2 1 1 0 400 70 400 100 N
+P 2 1 1 0 400 100 500 100 N
+P 2 1 1 0 400 -100 500 -100 N
+P 2 1 1 0 500 100 500 20 N
+P 2 1 1 0 500 -100 500 -30 N
+P 4 1 1 0 470 -30 530 -30 500 20 470 -30 N
+P 2 1 1 0 470 20 530 20 N
+P 4 1 1 0 360 -20 360 20 300 0 360 -20 N
+P 2 1 1 0 400 -200 400 -100 N
+P 2 1 1 0 400 -200 350 -200 N
+P 2 1 1 0 300 -200 200 -200 N
+P 2 1 1 0 200 -200 200 -100 N
+P 2 1 1 0 200 0 200 -50 N
+X S2 4 400 -300 100 U 40 0 2 1 P 
+X G2 5 0 0 100 R 40 0 2 1 P 
+X D2 3 400 200 100 D 40 0 2 1 P 
+P 4 2 1 0 170 -50 200 -100 230 -50 170 -50 N
+P 2 2 1 0 230 -100 170 -100 N
+P 2 2 1 0 230 -90 230 -100 N
+P 4 2 1 0 350 -230 350 -170 300 -200 350 -230 N
+P 2 2 1 0 300 -230 300 -170 N
+P 2 2 1 0 310 -230 300 -230 N
+P 2 2 1 0 100 0 280 0 N
+P 2 2 1 0 400 70 300 70 N
+P 2 2 1 0 400 0 300 0 N
+P 2 2 1 0 400 -70 300 -70 N
+P 2 2 1 0 400 0 400 -100 N
+P 2 2 1 0 280 90 280 -90 N
+P 2 2 1 0 300 90 300 50 N
+P 2 2 1 0 300 -20 300 20 N
+P 2 2 1 0 300 -90 300 -50 N
+P 2 2 1 0 400 70 400 100 N
+P 2 2 1 0 400 100 500 100 N
+P 2 2 1 0 400 -100 500 -100 N
+P 2 2 1 0 500 100 500 20 N
+P 2 2 1 0 500 -100 500 -30 N
+P 4 2 1 0 470 -30 530 -30 500 20 470 -30 N
+P 2 2 1 0 470 20 530 20 N
+P 4 2 1 0 360 -20 360 20 300 0 360 -20 N
+P 2 2 1 0 400 -200 400 -100 N
+P 2 2 1 0 400 -200 350 -200 N
+P 2 2 1 0 300 -200 200 -200 N
+P 2 2 1 0 200 -200 200 -100 N
+P 2 2 1 0 200 0 200 -50 N
+ENDDRAW
+ENDDEF
+#
+# End Library

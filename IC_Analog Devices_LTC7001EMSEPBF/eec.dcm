@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC7001EMSEPBF
+D LTC7001EMSEPBF
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ltc7001.pdf
+$ENDCMP
+# end doc library
